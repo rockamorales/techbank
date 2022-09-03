@@ -7,7 +7,7 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: update
-  datsource:
+  datasource:
     url: jdbc:mysql://localhost:3306/bankAccount?createDatabaseIfNotExist=true
     username: root
     password: Pl3yad3s
