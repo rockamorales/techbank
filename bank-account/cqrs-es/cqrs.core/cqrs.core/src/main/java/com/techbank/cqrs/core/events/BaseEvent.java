@@ -13,6 +13,4 @@ import lombok.experimental.SuperBuilder;
 
 public class BaseEvent extends Message {
     private int version;
-
-
 }
